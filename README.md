@@ -81,8 +81,6 @@ I'd particularly appreciate your thoughts on:
 * **Interoperability challenges and strategies** for MVI/MAV agents needing to communicate with systems using other standards.
 * Suggestions for **improving, evolving, or evaluating** the protocol.
 
-Join my Discord server to discuss this further: [YOUR_DISCORD_SERVER_INVITE_LINK]
-
 Please also feel free to open *Issues* on GitHub to ask questions, make suggestions, or point out areas for clarification.
 
 ## License
